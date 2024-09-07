@@ -1,0 +1,38 @@
+.Password{
+    /* padding-left: 200px; */
+    padding-bottom: 22px;
+}
+
+.Title{
+    color: #e7d39a;
+}
+.Info{
+    color:#f1aa60;
+    display: flex;
+}
+
+body{
+    background-color: #e54787;
+}
+
+.Textbox_1{
+    background-color: #bf219a;
+    border-color:#8e0f9c;
+}
+
+.Spiderman{
+    padding-left: 20px;
+    width: 300px;
+    height: 400px;
+
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.user-password{
+    display:flex;
+    gap: 20px;
+}
